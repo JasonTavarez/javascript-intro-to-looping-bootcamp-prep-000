@@ -19,3 +19,10 @@ function whileLoop(n){
     }
   }
 }
+
+
+function doWhileLoop(integer){
+  do {
+    [];
+  } while ([]);
+}
