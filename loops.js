@@ -23,6 +23,6 @@ function whileLoop(n){
 
 function doWhileLoop(integer){
   do {
-    [];
-  } while ([]);
+    console.log("I run once regardless.");
+  } while (incrementVariable() < integer);
 }
